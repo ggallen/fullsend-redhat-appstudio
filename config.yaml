@@ -56,7 +56,7 @@ repos:
     docs:
         enabled: false
     dora-metrics:
-        enabled: false
+        enabled: true
     ec-cookbook:
         enabled: false
     gbenhaim-test-repo:
